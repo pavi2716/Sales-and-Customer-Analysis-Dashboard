@@ -1,6 +1,8 @@
 # Sales-and-Customer-Analysis-Dashboard (Excel)
 ![Dashboard](https://github.com/user-attachments/assets/4bef08cb-a6ff-4d98-9403-7f190ea179f3)
-🛍️ E-Commerce Apparel Purchase Dataset
+
+**🛍️ E-Commerce Apparel Purchase Dataset**
+
 This dataset contains 28,472 detailed transaction-level records of apparel purchases made on popular Indian e-commerce platforms. It captures customer demographics, product details, sales channels, and shipping information, making it valuable for customer behavior analysis, market segmentation, and sales forecasting.
 | **Column Name**    | **Description**                                                                                            |
 | ------------------ | ---------------------------------------------------------------------------------------------------------- |
