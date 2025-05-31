@@ -28,6 +28,7 @@ This dataset contains 28,472 detailed transaction-level records of apparel purch
 | `B2B`              | Boolean value indicating if the order is Business-to-Business – `TRUE` or `FALSE`.                         |
 
 **✅ Charts and Their Insights:**
+
 Order Status Chart
 ➤ Shows the count of orders based on status: Delivered, Cancelled, Refunded, and Returned.
 
